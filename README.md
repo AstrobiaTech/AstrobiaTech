@@ -25,10 +25,8 @@ We started as an **Audit & Development firm** for smart contracts in the beginni
 ### Connect with us:
 
 
-[<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][medium]
 [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br />
 
 
-[medium]: mailto:astrobiatech@gmail.com
 [telegram]: https://t.me/astrobiatech
