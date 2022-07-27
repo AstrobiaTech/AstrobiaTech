@@ -22,11 +22,3 @@ We started as an **Audit & Development firm** for smart contracts in the beginni
 - 🎊 More than 6 NFT Marketplace developed.
 
 
-### Connect with us:
-
-
-[<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-<br />
-
-
-[telegram]: https://t.me/astrobiatech
