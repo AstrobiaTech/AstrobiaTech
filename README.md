@@ -1,24 +1,24 @@
-### Hi there, we are the AstrobiaTech.
+### Hi there, we are the Astrobiatech Blockchain Security.
 
-We are the team of engineers and analysts specialized in blockchain technology and business analytics with wide experience on crypto market.we are lauch recently and started becoming famous because of our work. 
+Astrobiatech is a leading smart contract auditing company with an essential focus on decentralized finance protocols. We work mainly with EVM-compatible protocols to help increase the security of their contracts.
 
-We started as an **Audit & Development firm** for smart contracts in the beginning of the ICO rush and expanded our expertise to the market researches and exchange analytics, security and technical valuation of the projects.
+**Astrobiatech Blockchain Security** was established as a network of highly regarded independent auditors with a focus on providing cybersecurity services for blockchain technology of any size and representative of the many decentralised communities they cherish. Astrobiatech provides independent and top-tier comprehensive solutions to all blockchain developers and consumers. Astrobiatech has dozens of years of combined professional experience in smart contract security and efficiency as well as renowned accomplishments in vulnerability analysis and operating systems.
 
 ## Services we are providing:
-- 🛠 Full Smart Contract security audit.
+- 🛠 Full Smart Contract security audit & KYC.
 - 💻 Smart Contracts development:
   - Any Solidity, Tron, EOS smart contracts.
   - Farming/ Staking/ Vault smart contracts.
   - Any contracts with your custom logic and requirements.
-- ⚡ Dashboards (dApp) development and web3 integrations.
+- ⚡ Marketing.
 - 🛠 Dex , DAO , ICO development.
 - 💻 NFT Marketplace and Minting dApp development.
 
 ## Our statistics:
-- 🚀 More than 60 public Smart Contract audits.
-- 🎊 7 Staking and 9 Farming Smart Contracts developed.
+- 🚀 More than 3 public Smart Contract audits.
+- 🎊 7 Staking and Farming Smart Contracts developed.
 - 🧨 More than 4 Token and Custom Smart Contracts developed.
-- 🚀 More than 12 DEX and ICO dApp developed.
-- 🎊 More than 6 NFT Marketplace developed.
+- 🚀 More than 2 DEX and ICO dApp developed.
+- 🎊 More than 2 NFT Marketplace developed.
 
 
